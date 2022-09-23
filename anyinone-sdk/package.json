@@ -1,0 +1,16 @@
+{
+  "name": "anyinone-sdk",
+  "version": "1.0.1",
+  "description": "奥集能SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anyinone",
+    "anyinone-sdk"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
